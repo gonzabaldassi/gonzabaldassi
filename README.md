@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gonzalo Baldassi</h1>
 <h3 align="center">I am a trainee developer currently immersed in self-directed learning across various technologies with the goal of becoming a full-stack developer. Additionally, I am a student at UTN FRVM in Systems' Engineering.</h3>
-<a href="https://gonzalobaldassi.vercel.app/" target="_BLANK" referrer="noreferrer"><h3 align="left">Portfolio:</h3></a>
+<a href="https://gonzalobaldassi.vercel.app/" target="_BLANK" referrer="noreferrer"><h3 align="left">Portfolio</h3></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
