@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gonzalo Baldassi</h1>
 <h3 align="center">I am a trainee developer currently immersed in self-directed learning across various technologies with the goal of becoming a full-stack developer. Additionally, I am a student at UTN FRVM in Systems' Engineering.</h3>
-
+<h3 align="left">Portfolio:</h3>
+<a href="https://gonzalobaldassi.vercel.app/" target="_BLANK" referrer="noreferrer">Portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gonzalo-baldassi-b9a321218/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-baldassi-b9a321218/" height="30" width="40" /></a>
