@@ -7,7 +7,7 @@
 About Me
 </h3>
 
-I am a trainee developer currently immersed in self-directed learning across various technologies with the goal of becoming a full-stack developer. Additionally, I am a student at UTN FRVM in Systems' Engineering.
+I am a junior developer currently immersed in self-directed learning across various technologies with the goal of becoming a full-stack developer. Additionally, I am a student at UTN FRVM in Systems' Engineering.
 - 🌱 I’m currently learning ...
   - Laravel
 - ✔ Ask me about anything, I am happy to help<br>
