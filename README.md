@@ -52,9 +52,12 @@ I am a junior developer currently immersed in self-directed learning across vari
 <h3> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Hoppscotch-09090B?style=for-the-badge&logo=Hoppscotch&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF">
 </span>
 
 
