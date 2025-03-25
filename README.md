@@ -9,7 +9,7 @@ About Me
 
 I am a junior developer currently immersed in self-directed learning across various technologies with the goal of becoming a full-stack developer. Additionally, I am a student at UTN FRVM in Systems' Engineering.
 - 🌱 I’m currently learning ...
-  - Laravel
+  - NestJS
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 I love playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="gonzalobaldassi02@gmail.com">gonzalobaldassi02@gmail.com</a>
