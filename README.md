@@ -30,6 +30,7 @@ I am a junior developer currently immersed in self-directed learning across vari
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"> 
+<img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=FFFFFF" alt="angular">
 </p>
 
 
